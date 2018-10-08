@@ -2,111 +2,133 @@
     {
         "name": "Bilbo Baggins",
         "email": "bb@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Dennis the Menace",
         "email": "dm@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Luke Skywalker",
         "email": "ls@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Liam Neeson",
         "email": "ln@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Chris Hemsworth",
         "email": "ch@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Richard Rodgers",
         "email": "rr@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Aaron Rodgers",
         "email": "ar@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Donte Montcreif",
         "email": "dm@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Barack Obama",
         "email": "bo@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Yoyo Ma",
         "email": "ym@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Scarlett Johanssen",
         "email": "sj@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Gal Gadot",
         "email": "wonderwoman@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Natalie Portman",
         "email": "padme@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Chris Evans",
         "email": "captainamerica@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Tony Stark",
         "email": "ironman@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Orlando Bloom",
         "email": "legolas@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Peter Parker",
         "email": "spiderman@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Ash Ketchum",
         "email": "pokemaster@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Tchalla",
         "email": "blackpanther@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "George Lucas",
         "email": "starwars@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "Peter Jackson",
         "email": "lotr@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       },
       {
         "name": "CJ Beathard",
         "email": "niners@grove.co",
-        "score": 0
+        "score": 0,
+        "hasCoffee": 0
       }
 ]
